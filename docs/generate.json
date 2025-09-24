@@ -4,5 +4,6 @@
   "message": "passing",
   "color": "brightgreen",
   "namedLogo": "github",
-  "cacheSeconds": 300
+  "cacheSeconds": 300,
+  "link": [ "", "" ]
 }
