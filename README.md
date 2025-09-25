@@ -1,1 +1,1 @@
-![Generate Article](https://img.shields.io/endpoint?url=https://brandjtc.github.io/status-badges/generate.json&style=for-the-badge&logo=github&label=Generate%20Article)
+[![Generate Article](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/brandjtc/status-badges/main/docs/generate.json)](https://americanhomequotes.com/your-article-url)
