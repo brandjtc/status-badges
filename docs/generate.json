@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "label": "Generate Article",
-  "message": "failing",
-  "color": "red",
+  "message": "passing",
+  "color": "brightgreen",
   "namedLogo": "github",
   "cacheSeconds": 300
 }
